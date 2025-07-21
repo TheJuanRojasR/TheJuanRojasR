@@ -107,7 +107,7 @@ Soy un apasionado desarrollador junior de software de Colombia 🇨🇴, actualm
 
 --- 
 
-### 🧠 Currently Learning
+## 🧠 Currently Learning
 
 - TypeScript
 - Backend with Node.js
@@ -115,7 +115,7 @@ Soy un apasionado desarrollador junior de software de Colombia 🇨🇴, actualm
 
 ---
 
-### 💡 Personal Interests
+## 💡 Personal Interests
 
 - 📚 Learning English and business development
 - 🧠 Solving programming challenges
