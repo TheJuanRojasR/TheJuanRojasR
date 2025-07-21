@@ -17,15 +17,13 @@
 ---
 
 <p>
-I'm a passionate software developer trainee from Colombia 🇨🇴, currently focused on full-stack web development with JavaScript, TypeScript, and Node.js. I'm committed to continuous learning, enhancing my English, and building personal and collaborative software projects.
-I’m actively seeking junior-level opportunities where I can contribute, grow, and become part of a team building meaningful software solutions.
+I'm a passionate junior software developer from Colombia 🇨🇴, currently focused on full-stack web development with JavaScript, TypeScript, and Node.js. I'm committed to continuous learning, improving my English, and building personal and collaborative software projects. I'm in search of opportunities as a junior developer where I can grow professionally and add real value to the team.
 </p>
 
 ---
 
 <p>
-Soy un desarrollador de software en formación, apasionado por la tecnología y el aprendizaje continuo. Actualmente me enfoco en el desarrollo web full stack con JavaScript, TypeScript y Node.js. Estoy comprometido con el aprendizaje continuo, la mejora de mi inglés y la creación de proyectos de software personales y colaborativos.
-Estoy en búsqueda de oportunidades como desarrollador junior, donde pueda crecer profesionalmente y aportar valor real al equipo.
+Soy un apasionado desarrollador junior de software de Colombia 🇨🇴, actualmente enfocado en el desarrollo web full-stack con JavaScript, TypeScript y Node.js. Estoy comprometido con el aprendizaje continuo, mejorar mi inglés y desarrollar proyectos de software personales y colaborativos. Estoy en búsqueda de oportunidades como desarrollador junior, donde pueda crecer profesionalmente y aportar valor real al equipo.
 </p>
 
 ---
